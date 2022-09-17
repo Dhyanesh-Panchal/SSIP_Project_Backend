@@ -1,2 +1,4 @@
 # nodemodules Ignored
 node_modules/*
+Refrence.txt
+.wwebjs_auth/*

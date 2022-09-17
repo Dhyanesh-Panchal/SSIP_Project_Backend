@@ -1,0 +1,6 @@
+[0917/120139.018:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://web.whatsapp.com/ (0)
+[0917/120139.031:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[0917/120139.205:INFO:CONSOLE(1)] "[Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "default-src 'self' data: blob:". Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback.
+", source: https://web.whatsapp.com/WAWebWorker.2587375914cfc6a18bbc.worker.js (1)
+[0917/120154.461:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[0917/120154.464:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)

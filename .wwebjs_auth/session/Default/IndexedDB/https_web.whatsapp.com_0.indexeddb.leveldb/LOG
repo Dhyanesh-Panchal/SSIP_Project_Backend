@@ -1,0 +1,6 @@
+2022/09/17-12:01:38.049 4310 Reusing MANIFEST D:\CODING\SSIP_Project\Project\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/17-12:01:38.050 4310 Recovering log #3
+2022/09/17-12:01:38.105 4310 Reusing old log D:\CODING\SSIP_Project\Project\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000003.log 
+2022/09/17-12:02:05.774 3734 Level-0 table #5: started
+2022/09/17-12:02:05.820 3734 Level-0 table #5: 1146209 bytes OK
+2022/09/17-12:02:05.822 3734 Delete type=0 #3
